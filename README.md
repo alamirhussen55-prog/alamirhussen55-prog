@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Your Name</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Elamir Hussein</span></h1>
 <h3 align="center">Junior Data Analyst • SQL | Power BI | Excel | Python</h3>
 
 <p align="center">
@@ -88,8 +88,7 @@ My goal is to master the full analytics stack — **SQL → ETL → DWH → Powe
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
