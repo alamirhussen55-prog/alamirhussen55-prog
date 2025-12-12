@@ -52,20 +52,21 @@ My goal is to master the full analytics stack — **SQL → ETL → DWH → Powe
 
 ---
 
-### 🧍‍♂️ **HR Analytics Dashboard (Excel + Power BI)**
-✔ Salary analysis, performance distribution, attrition study  
-✔ Dynamic charts & interactive slicers  
+### 🛒 **Fifa world Cup Dashboard (Power BI)**
+otal goals scored by national teams
 
-👉 *Repository:* **[HR Dashboard](#)**
+Player goal comparisons
 
----
+Goals grouped by league
 
-### 🛒 **E-Commerce Insights (Power BI)**
-✔ Sales trends  
-✔ Customer segmentation  
-✔ Category-level performance  
+Donut chart of team goal distribution
 
-👉 *Repository:* **[E-Commerce BI](#)**
+Scatter plot: Age vs Goals
+
+Consistent card layouts and UI styling
+  
+
+👉 *Repository:*  https://lnkd.in/exxaZaRe
 
 ---
 
